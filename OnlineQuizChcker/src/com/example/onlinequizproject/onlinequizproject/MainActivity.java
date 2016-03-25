@@ -9,7 +9,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
-
+//dayum
 public class MainActivity extends Activity {
 
     private String userClassification;
